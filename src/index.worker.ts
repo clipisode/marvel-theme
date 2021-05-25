@@ -9,4 +9,7 @@ export const siteData: SiteData = {
   introScreen: {
     recordButtonLabel: "Record a video reply",
   },
+  nameScreen: {},
+  emailScreen: {},
+  closedScreen: {},
 };
