@@ -16,3 +16,8 @@
 #recordButton {
   background-color: brown;
 }
+
+#recordButton:hover {
+  background-color: orange;
+  color: purple;
+}
