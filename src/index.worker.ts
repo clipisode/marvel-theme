@@ -8,7 +8,7 @@ export const siteData: SiteData = {
   customCssKey: "site.css",
   brandColor: "#7df42e",
   introScreen: {
-    recordButtonLabel: "Record a M01 video reply",
+    recordButtonLabel: "Record a M01+ video reply",
   },
   nameScreen: {},
   emailScreen: {},
