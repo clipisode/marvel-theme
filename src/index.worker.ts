@@ -6,11 +6,7 @@ export const getCustomDataDescriptors: GetCustomDataDescriptorsFn = () => {
 
 export const siteData: SiteData = {
   customCssKey: "styles.css",
-  brandColor: "#7df42e",
   introScreen: {
-    recordButtonLabel: "Record a video reply — Excelsior!",
+    recordButtonLabel: "Record a video reply",
   },
-  nameScreen: {},
-  emailScreen: {},
-  closedScreen: {},
 };

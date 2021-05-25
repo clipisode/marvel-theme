@@ -9,15 +9,6 @@
   display: unset;
 }
 
-#introTitle {
+#introTitleOFF {
   font-family: "Permanent Marker";
-}
-
-#recordButton {
-  background-color: brown;
-}
-
-#recordButton:hover {
-  background-color: orange;
-  color: purple;
 }
