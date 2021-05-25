@@ -19,5 +19,5 @@
   top: 0;
   width: 100%;
   pointer-events: none;
-  background: linear-gradient(rgba(255, 0, 0, 0.9) 0%, rgba(255, 0, 0, 0) 0%);
+  background: linear-gradient(rgba(255, 0, 0, 0.9) 0%, rgba(255, 0, 0, 0) 100%);
 }
