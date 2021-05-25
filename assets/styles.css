@@ -12,7 +12,7 @@
 
 
 
-.introTop {
+#introTop {
   min-height: 40vh;
   position: absolute;
   top: 0;
@@ -21,11 +21,7 @@
   background: linear-gradient(rgba(255, 0, 0, 0.9) 0%, rgba(255, 0, 0, 0) 0%);
 }
 
-.introTop.darken {
-  background: linear-gradient(rgba(255, 0, 0, 0.9) 0%, rgba(255, 0, 0, 0) 100%);
-}
-
-.introBottom {
+#introBottom {
   padding-top: 120px;
   padding-bottom: 30px;
   position: absolute;
@@ -38,11 +34,7 @@
   background: linear-gradient(rgba(0, 255, 0, 0) 0%, rgba(0, 255, 0, 0.75) 80%);
 }
 
-.introBottom.instagram {
-  padding-bottom: 90px;
-}
-
-.introTerms {
+#introTerms {
   font-size: 12px;
   margin: 24px 24px 2px 24px;
   padding: 0;
@@ -52,12 +44,12 @@
   pointer-events: auto;
 }
 
-.introTerms a {
+#introTerms a {
   color: #66aaff;
   text-decoration: double;
 }
 
-.introHostName {
+#introHostName {
   padding: 0;
   margin: 1rem 2rem;
   font-family: "Permanent Marker";
@@ -67,7 +59,7 @@
   font-size: 1.2rem;
 }
 
-.introTitle {
+#introTitle {
   padding: 0;
   margin: 0 2rem;
   font-size: 2.3rem;
