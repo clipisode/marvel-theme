@@ -9,3 +9,6 @@
   display: unset;
 }
 
+.nameInput.invalid {
+  border: 12px dashed #00ff00;
+}
