@@ -9,6 +9,15 @@
   display: unset;
 }
 
-input.invalid {
+form {
   border: 12px dashed #00ff00;
 }
+
+.fieldContainer {
+  border: 6px dotted lightcoral;
+}
+
+.labelContainer {
+  background-color: aquamarine;
+}
+
