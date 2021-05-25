@@ -9,15 +9,3 @@
   display: unset;
 }
 
-
-
-
-#introTop {
-  border: 4px dashed orange;
-  min-height: 40vh;
-  position: absolute;
-  top: 0;
-  width: 100%;
-  pointer-events: none;
-  background: linear-gradient(rgba(255, 0, 0, 0.9) 0%, rgba(255, 0, 0, 0) 100%);
-}
