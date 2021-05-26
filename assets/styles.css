@@ -9,15 +9,6 @@
   display: unset;
 }
 
-form {
-  border: 12px dashed #00ff00;
+#nameScreen #button {
+  background-color: orangered;
 }
-
-.fieldContainer {
-  border: 6px dotted lightcoral;
-}
-
-.labelContainer {
-  background-color: aquamarine;
-}
-
