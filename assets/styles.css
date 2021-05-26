@@ -12,3 +12,7 @@
 #nameScreen #button {
   background-color: orangered;
 }
+
+.marvel {
+  border: 12px dashed goldenrod;
+}
