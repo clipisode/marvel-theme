@@ -26,3 +26,11 @@
   font-weight: 400;
   border-radius: 0;
 }
+
+label.marvel {
+  border: 12px dashed goldenrod;
+  color: red;
+  font-weight: 400;
+  border-radius: 20px;
+}
+
