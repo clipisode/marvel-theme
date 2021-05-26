@@ -15,4 +15,7 @@
 
 .marvel {
   border: 12px dashed goldenrod;
+  color: silver;
+  font-weight: 400;
+  border-radius: 0;
 }
