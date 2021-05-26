@@ -14,5 +14,10 @@ export const siteData: SiteData = {
   },
   nameScreen: {},
   emailScreen: {},
-  closedScreen: {},
+  closedScreen: {
+    markup: `
+    <div id="detailsInner" className="flex flex-col items-center bg-white text-center flex-grow">
+    <p className="bg-black">black</p><p className="bg-white">white</p><div className="border m-8">QR_CODE</div><p className="bg-black">black</p>
+    </div>`,
+  },
 };
