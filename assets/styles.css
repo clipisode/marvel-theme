@@ -19,3 +19,10 @@
   font-weight: 400;
   border-radius: 0;
 }
+
+#recordButton {
+  border: 2px dashed blue;
+  color: silver;
+  font-weight: 400;
+  border-radius: 0;
+}
