@@ -6,6 +6,9 @@ export const getCustomDataDescriptors: GetCustomDataDescriptorsFn = () => {
 
 export const siteData: SiteData = {
   customCssKey: "styles.css",
+  introScreen: {
+    recordButtonLabel: "Excelsior!",
+  },
   successScreen: {
     markup: `
             <div class="flex flex-grow flex-col items-center justify-between">
