@@ -6,14 +6,11 @@ export const getCustomDataDescriptors: GetCustomDataDescriptorsFn = () => {
 
 export const siteData: SiteData = {
   customCssKey: "styles.css",
-  introScreen: {
-    recordButtonLabel: "Excelsior!",
-  },
   successScreen: {
     markup: `
             <div class="flex flex-grow flex-col items-center justify-between">
                 <div>
-                    <p class="mt-12 mb-12 mx-3 text-center">Avengers assemble! Your video request for <span class="whitespace-nowrap"><b>INVITATION_DISPLAY_NAME</b> was sent.</span></p>
+                    <p class="mt-12 mb-12 mx-3 text-center">Excelsior! Your video request for <span class="whitespace-nowrap"><b>INVITATION_DISPLAY_NAME</b> was sent.</span></p>
                     <div class="hidden iosOnly text-center">
                         <div>
                           <a class="downloadButton" href="https://apps.apple.com/us/app/clipisode-easy-video-collabs/id1475959226#?platform=iphone">Download the app</a>
@@ -24,7 +21,7 @@ export const siteData: SiteData = {
                     <div class="hidden iosOnly">
                         <div class="mb-24">
                           <a href="https://apps.apple.com/us/app/clipisode-easy-video-collabs/id1475959226#?platform=iphone">
-                            <img class="h-10 mx-auto" src="THEME_FILE_ROOT/app-store.svg" />
+                            <img class="h-10 mx-auto" src="/app-store.svg" />
                           </a>
                         </div>
                     </div>
