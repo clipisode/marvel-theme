@@ -7,7 +7,7 @@ export const getCustomDataDescriptors: GetCustomDataDescriptorsFn = () => {
 export const siteData: SiteData = {
   customCssKey: "styles.css",
   introScreen: {
-    recordButtonLabel: "Excelsior!",
+    // recordButtonLabel: "Excelsior!",
   },
   successScreen: {
     markup: `
