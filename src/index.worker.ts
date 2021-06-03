@@ -10,6 +10,7 @@ export const siteData: SiteData = {
     // recordButtonLabel: "Excelsior!",
   },
   successScreen: {
+    // values: THEME_FILE_ROOT, INVITATION_DISPLAY_NAME
     markup: `
             <div class="flex flex-grow flex-col items-center justify-between">
                 <div>
