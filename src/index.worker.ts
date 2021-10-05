@@ -11,8 +11,8 @@ export const siteData: any = {
   },
   nameScreen: {
     // values: UPLOAD_PERCENTAGE, INVITATION_DISPLAY_NAME, SOCIAL_NETWORK
-    socialPrompt: "none",
-    socialPromptFallback: "instagram",
+    // socialPrompt: "none",
+    // socialPromptFallback: "instagram",
     },
     successScreen: {
       // values: THEME_FILE_ROOT, INVITATION_DISPLAY_NAME
