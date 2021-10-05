@@ -9,6 +9,10 @@
   display: unset;
 }
 
+body {
+  background-color: orange;
+}
+
 #nameScreen .marvel {
   border: 12px dashed goldenrod;
   color: silver;
