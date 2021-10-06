@@ -11,7 +11,7 @@ export const siteData: any = {
   },
   nameScreen: {
     // values: UPLOAD_PERCENTAGE, INVITATION_DISPLAY_NAME, SOCIAL_NETWORK
-    socialPrompt: "instagram",
+    socialPrompt: "tiktok",
     socialPromptFallback: "instagram",
     },
     successScreen: {
