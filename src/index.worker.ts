@@ -11,8 +11,10 @@ export const siteData: any = {
   },
   nameScreen: {
     // values: UPLOAD_PERCENTAGE, INVITATION_DISPLAY_NAME, SOCIAL_NETWORK
-    socialPrompt: "auto",
-    socialPromptFallback: "instagram",
+    socialPrompt: "instagram",
+    socialPromptFallback: null,
+    socialDescription:
+      "Add your SOCIAL_NETWORK handle so we can tag you.",
     },
     successScreen: {
       // values: THEME_FILE_ROOT, INVITATION_DISPLAY_NAME
